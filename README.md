@@ -1,6 +1,6 @@
 <div align="center">
 
-# Omkar Suvarnakar
+# Omkar Suvarnkar
 
 **AI & Data Science Engineering Student · Pune, India**
 

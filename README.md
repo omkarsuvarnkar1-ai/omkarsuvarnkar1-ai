@@ -41,7 +41,7 @@
 
 - [GitHub](https://github.com/omkarsuvarnkar1-ai)
 - [LinkedIn](https://www.linkedin.com/in/omkar-suvarnkar-8ab430421?utm_source=share_via&utm_content=profile&utm_medium=member_android)
-- [Email](mailto:omkar.suvamkar1@gmail.com)
+- [Email](mailto:omkar.suvarnkar1@gmail.com)
 
 Topmate is omitted because no exact URL was provided.
 
